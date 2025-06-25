@@ -26,4 +26,4 @@ Este é um projeto simples de **Sistema Bancário** feito em Python. Ele simula 
 
  git clone https://github.com/CJ007123/Sistema-de-Banco.git |
  cd Sistema-de-Banco |
- python banco.py
+ python  banco.py
